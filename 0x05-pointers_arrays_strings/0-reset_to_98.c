@@ -1,9 +1,9 @@
-#include <main.h>
+#include "main.h"
 /**
- * reset_to_98 - update the value of a var using pointers
- * @n: interger to update
- * Return: 0
- */
+*  reset_to_98 - takes the pointer and updates the value
+*  @n: int to check
+*  Return: 0 is success
+*/
 
 void reset_to_98(int *n)
 {
